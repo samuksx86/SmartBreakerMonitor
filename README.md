@@ -87,6 +87,6 @@ SmartBreakerConsoleApp/
 
 ## 👨‍💻 Autor
 
-Samuel Ramos de Almeida – RM99134
-Gabriel Marquez Trevisan – RM99227
-Enricco Rossi de Souza Carvalho Miranda – RM551717
+- Samuel Ramos de Almeida – RM99134
+- Gabriel Marquez Trevisan – RM99227
+- Enricco Rossi de Souza Carvalho Miranda – RM551717
